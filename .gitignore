@@ -1,0 +1,31 @@
+# ghc
+ghc/ghci_history
+
+# pulse
+pulse/*.gdbm
+pulse/*-default-sink
+pulse/*-default-source
+pulse/*-runtime
+
+# ncmpcpp
+ncmpcpp/error.log
+
+# newsboat
+newsboat/urls
+
+# nvim
+nvim/plugin
+
+# xmonad
+xmonad/xmonad.hi
+xmonad/xmonad.o
+xmonad/.stack-work
+
+# zsh
+zsh/.zcompdump
+
+# untracked
+cef_user_data
+dconf
+neofetch
+unity3d

@@ -1,0 +1,4 @@
+.include /etc/pulse/default.pa
+
+set-default-sink alsa_output.usb-Schiit_Audio_Schiit_4490_G2-00.analog-stereo
+set-default-source alsa_input.usb-Audio-Technica_ATR_USB_microphone-00.analog-stereo

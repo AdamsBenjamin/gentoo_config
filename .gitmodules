@@ -1,0 +1,9 @@
+[submodule "xmonad/xmonad"]
+	path = xmonad/xmonad
+	url = file:///xmonad
+[submodule "xmonad/xmonad-contrib"]
+	path = xmonad/xmonad-contrib
+	url = file:///xmonad-contrib
+[submodule "xmonad/xmobar"]
+	path = xmonad/xmobar
+	url = file:///xmobar
