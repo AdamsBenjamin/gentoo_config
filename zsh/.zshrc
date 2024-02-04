@@ -19,7 +19,7 @@ compinit
 
 # Set prompt
 PS1="%F{green}[%0~]%f%F{red}%n%f%F{blue}%#%f "
-RPS1="%F{yellow}[%T]%f"
+RPS1="%F{yellow}%T%f"
 
-source $HOME/.aliases
+source ${XDG_CONFIG_HOME}/.aliases
 source $ZDOTDIR/.zshenv

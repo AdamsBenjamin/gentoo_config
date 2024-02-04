@@ -1,3 +1,6 @@
+vim.o.splitright = true
+vim.o.splitbelow = true
+
 vim.opt.number = true
 vim.opt.relativenumber = true
 

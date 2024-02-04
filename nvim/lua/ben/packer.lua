@@ -52,4 +52,10 @@ return require('packer').startup(function(use)
     use 'nvim-lua/lsp_extensions.nvim'
 
     use 'm4xshen/autoclose.nvim'
+
+    use "luukvbaal/nnn.nvim"
+
+    use 'sarmong/newsboat.vim'
+
+    use 'nvim-telescope/telescope-ui-select.nvim'
 end)

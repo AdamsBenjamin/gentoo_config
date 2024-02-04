@@ -2,3 +2,5 @@ mpd_music_dir = "~/music"
 ncmpcpp_directory = "~/.config/ncmpcpp"
 mpd_host = "~/.cache/mpd/socket"
 mpd_port = "6600"
+
+execute_on_song_change = songinfo

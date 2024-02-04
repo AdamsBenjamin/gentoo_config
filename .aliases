@@ -1,0 +1,4 @@
+alias firefox='firefox-bin'  # TODO: Change after switch to compiled firefox
+alias vim='nvim'
+alias ..='cd ..'
+alias sl='simpler-login'
